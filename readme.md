@@ -30,12 +30,12 @@ batch_x, batch_y = mixup(alpha, batch_x, batch_y)
 ## Performance
 
 + alpha = 0.5
-[0.5](https://github.com/Yangget/Mixup_All-use/blob/master/result/batch_x_alpha(0.5).jpg)
+![0.5](https://github.com/Yangget/Mixup_All-use/blob/master/result/batch_x_alpha(0.5).jpg)
 + alpha = 0.6
-[0.6](https://github.com/Yangget/Mixup_All-use/blob/master/result/batch_x_alpha(0.6).jpg)
+![0.6](https://github.com/Yangget/Mixup_All-use/blob/master/result/batch_x_alpha(0.6).jpg)
 + alpha = 0.7
-[0.7](https://github.com/Yangget/Mixup_All-use/blob/master/result/batch_x_alpha(0.7).jpg)
+![0.7](https://github.com/Yangget/Mixup_All-use/blob/master/result/batch_x_alpha(0.7).jpg)
 + alpha = 0.8
-[0.8](https://github.com/Yangget/Mixup_All-use/blob/master/result/batch_x_alpha(0.8).jpg)
+![0.8](https://github.com/Yangget/Mixup_All-use/blob/master/result/batch_x_alpha(0.8).jpg)
 + alpha = 0.9
-[0.9](https://github.com/Yangget/Mixup_All-use/blob/master/result/batch_x_alpha(0.9).jpg)
+![0.9](https://github.com/Yangget/Mixup_All-use/blob/master/result/batch_x_alpha(0.9).jpg)
